@@ -1,0 +1,27 @@
+.weather-container{
+    display:flex;
+
+}
+
+p.temp {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p.weather {
+    margin-left: 8px;
+    margin-top: 31px;
+    font-size: 18px;
+}
+
+span#error {
+    color: red;
+}
+
+.widewrapper {
+  width:100%;
+  }
+
+.widewrapper > img {
+  width:100%;
+}
